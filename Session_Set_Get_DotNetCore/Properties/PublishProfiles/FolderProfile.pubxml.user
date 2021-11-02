@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Session</_PublishTargetUrl>
+    <History>True|2021-11-02T00:46:34.8180992Z;False|2021-11-02T06:45:00.9377890+06:00;True|2021-11-02T06:40:31.9777457+06:00;</History>
+  </PropertyGroup>
+</Project>
